@@ -1,0 +1,15 @@
+D:\Demo\HybrisUploadStock\HybrisUploadStock\bin\Debug\net6.0\HybrisUploadStock.exe
+D:\Demo\HybrisUploadStock\HybrisUploadStock\bin\Debug\net6.0\HybrisUploadStock.deps.json
+D:\Demo\HybrisUploadStock\HybrisUploadStock\bin\Debug\net6.0\HybrisUploadStock.runtimeconfig.json
+D:\Demo\HybrisUploadStock\HybrisUploadStock\bin\Debug\net6.0\HybrisUploadStock.dll
+D:\Demo\HybrisUploadStock\HybrisUploadStock\bin\Debug\net6.0\HybrisUploadStock.pdb
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.csproj.AssemblyReference.cache
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.AssemblyInfoInputs.cache
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.AssemblyInfo.cs
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.csproj.CoreCompileInputs.cache
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.dll
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\refint\HybrisUploadStock.dll
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.pdb
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\HybrisUploadStock.genruntimeconfig.cache
+D:\Demo\HybrisUploadStock\HybrisUploadStock\obj\Debug\net6.0\ref\HybrisUploadStock.dll
